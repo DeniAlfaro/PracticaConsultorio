@@ -48,5 +48,6 @@
             <TextBox x:Name="txtFechaConsulta" HorizontalAlignment="Left" Height="23" Margin="10,333,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="168" IsEnabled="False"/>
             <Button x:Name="btnGuardarConsulta" Content="Guardar Consulta" HorizontalAlignment="Left" Margin="490,331,0,0" VerticalAlignment="Top" Width="118" Click="btnGuardarConsulta_Click"/>
         </Grid>
+        <Button x:Name="btnHistorialConsulta" Content="Historial Consultas" HorizontalAlignment="Left" Margin="347,23,0,0" VerticalAlignment="Top" Width="116" Click="btnHistorialConsulta_Click"/>
     </Grid>
 </Window>
